@@ -1,0 +1,6 @@
+framework module Pods_EasySliderExample {
+  umbrella header "Pods-EasySliderExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

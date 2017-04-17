@@ -1,0 +1,24 @@
+{
+  "name": "Capptan.EasySlider",
+  "version": "1.0.1",
+  "summary": "Easy Slider",
+  "homepage": "http://capptan.com.br",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Your Name": "capptan@capptan.com.br"
+  },
+  "social_media_url": "http://capptan.com.br",
+  "platforms": {
+    "ios": "9.1"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/faustocapptan/Capptan.EasySlider.git",
+    "tag": "master",
+    "commit": "c99011417760d4ff1335fcbabc4795c85865d2c6"
+  },
+  "source_files": "Capptan.EasySlider/**/*.{m,h,swift}"
+}

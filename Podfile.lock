@@ -1,0 +1,21 @@
+PODS:
+  - Capptan.EasySlider (1.0.1)
+
+DEPENDENCIES:
+  - Capptan.EasySlider (from `https://github.com/faustocapptan/Capptan.EasySlider`)
+
+EXTERNAL SOURCES:
+  Capptan.EasySlider:
+    :git: https://github.com/faustocapptan/Capptan.EasySlider
+
+CHECKOUT OPTIONS:
+  Capptan.EasySlider:
+    :commit: d7c951052de00621705411fae7915f882cd4cfef
+    :git: https://github.com/faustocapptan/Capptan.EasySlider
+
+SPEC CHECKSUMS:
+  Capptan.EasySlider: 4bd6ffdd9f031bf1a06a580fc4fd513a94855d09
+
+PODFILE CHECKSUM: d87f74434ff56cdcfb2e16a7d4b25835ff92bbd5
+
+COCOAPODS: 1.1.1

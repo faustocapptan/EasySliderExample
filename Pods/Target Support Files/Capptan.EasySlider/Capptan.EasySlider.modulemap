@@ -1,0 +1,6 @@
+framework module Capptan_EasySlider {
+  umbrella header "Capptan.EasySlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
